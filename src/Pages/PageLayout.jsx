@@ -6,9 +6,9 @@ export function PageLayout() {
   return (
     <>
       <Header />
-      <dic className={styles.contentWrapper}>
+      <div className={styles.contentWrapper}>
         <Outlet />
-      </dic>
+      </div>
     </>
   );
 }
