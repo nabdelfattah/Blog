@@ -1,0 +1,54 @@
+:root {
+  --width-desktop: 121.6rem;
+  --width-article: 80rem;
+
+  --color-logo-black: #141624;
+
+  --color-tag: #4b6bfb;
+  --bg-tag: #4b6bfb0d;
+
+  --color-text-black: #181a2a;
+  --color-author-gray: #97989f;
+  --color-text-gray: #3b3c4a;
+  --color-author-ads-btn-gray: #696a75;
+  --bg-border-gray: #e8e8ea;
+  --bg-search: #f4f4f5;
+
+  --animation: all 0.3s;
+
+  --radius: 1.2rem;
+  --radius-img-btn: 0.6rem;
+  --radius-search: 0.5rem;
+
+  --family-main: "Work Sans", sans-serif;
+  --family-article: "Source Serif 4", serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: var(--family-main);
+  color: var(--color-text-black);
+  font-size: 2rem;
+  font-weight: 400;
+}
+ul,
+ol {
+  list-style: none;
+}
+button {
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+  color: inherit;
+}
