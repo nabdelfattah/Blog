@@ -1,0 +1,39 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 4.3rem;
+  padding: 1.8rem;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 8rem;
+}
+.logo p {
+  font-weight: 700;
+  color: var(--color-logo-black);
+}
+.home {
+  color: var(--color-text-gray);
+}
+form {
+  background-color: var(--bg-search);
+  max-width: 16.6rem;
+  border-radius: var(--radius-search);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  overflow: hidden;
+  padding: 8px;
+}
+input {
+  line-height: 2rem;
+  font-size: 1.4rem;
+  border: none;
+  background-color: transparent;
+  max-width: 83%;
+}
+input:focus {
+  outline: none;
+}

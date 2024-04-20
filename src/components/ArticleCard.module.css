@@ -1,0 +1,41 @@
+.card {
+  width: 39.2rem;
+  height: 48.8rem;
+  border: 1px solid var(--bg-border-gray);
+  padding: 1.6rem;
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.main-img {
+  max-width: 36rem;
+  max-height: 24rem;
+  display: block;
+}
+.tag {
+  margin: 2rem 0;
+  display: inline-block;
+  color: var(--color-tag);
+  background-color: var(--bg-tag);
+  font-weight: 500;
+  font-size: 1.4rem;
+  line-height: 2rem;
+  border-radius: var(--radius-img-btn);
+}
+.heading {
+  font-weight: 600;
+  font-size: 2.4rem;
+  line-height: 2.8rem;
+  color: var(--color-text-black);
+  margin-bottom: 2rem;
+}
+.authorWrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.author-name {
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  color: var(--color-author-gray);
+  margin-right: 0.8rem;
+}
