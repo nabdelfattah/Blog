@@ -27,6 +27,7 @@
   line-height: 2.4rem;
   margin-bottom: 2.7rem;
   box-shadow: 0 0.6rem 1.6rem rgba(0, 0, 0, 0.16);
+  transition: all 0.3s;
 }
 .load-more-btn:hover {
   box-shadow: none;
