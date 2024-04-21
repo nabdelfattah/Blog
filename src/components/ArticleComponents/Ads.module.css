@@ -1,0 +1,21 @@
+.ads-wrapper {
+  color: var(--color-author-ads-btn-gray);
+  background-color: var(--bg-border-gray);
+  border-radius: var(--radius);
+  text-align: center;
+  padding: 1.6rem;
+  margin: 0 2rem;
+}
+.advertisment {
+  font-size: 1.4rem;
+  line-height: 2rem;
+}
+.place {
+  font-weight: 600;
+  font-size: 2rem;
+  line-height: 2.5rem;
+}
+.dimentions {
+  font-size: 1.8rem;
+  line-height: 2.6rem;
+}

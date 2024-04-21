@@ -10,7 +10,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -29,7 +29,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -37,7 +36,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -73,7 +72,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -92,7 +91,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -100,7 +98,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -136,7 +134,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -155,7 +153,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -163,7 +160,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -199,7 +196,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -218,7 +215,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -226,7 +222,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -262,7 +258,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -281,7 +277,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -289,7 +284,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -325,7 +320,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -344,7 +339,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -352,7 +346,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -388,7 +382,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -407,7 +401,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -415,7 +408,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -451,7 +444,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -470,7 +463,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -478,7 +470,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -514,7 +506,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -533,7 +525,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -541,7 +532,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -577,7 +568,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -596,7 +587,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -604,7 +594,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -640,7 +630,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -659,7 +649,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -667,7 +656,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -703,7 +692,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -722,7 +711,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -730,7 +718,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -766,7 +754,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -785,7 +773,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -793,7 +780,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -829,7 +816,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -848,7 +835,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -856,7 +842,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -892,7 +878,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -911,7 +897,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -919,7 +904,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -955,7 +940,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -974,7 +959,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -982,7 +966,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -1018,7 +1002,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -1037,7 +1021,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -1045,7 +1028,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -1081,7 +1064,7 @@
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "assets/lg-img/building-night.svg"
+        "img": "../../assets/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -1100,7 +1083,6 @@
       {
         "text": "While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey."
       },
-
       {
         "text": "Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet."
       },
@@ -1108,7 +1090,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "assets/lg-img/travel.svg"
+        "img": "../../assets/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },

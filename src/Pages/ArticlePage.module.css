@@ -1,0 +1,44 @@
+.article {
+  margin: 2.7rem auto;
+  max-width: var(--width-article);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1.6rem;
+  margin-bottom: 10rem;
+}
+.tag {
+  font-weight: 500;
+  font-size: 1.4rem;
+  line-height: 2rem;
+  color: white;
+  background-color: var(--color-tag);
+  border-radius: var(--radius-img-btn);
+  padding: 0.6rem 1.2rem;
+}
+.heading {
+  font-weight: 600;
+  font-size: 3.6rem;
+  line-height: 4rem;
+  color: var(--color-text-black);
+}
+.authorWrapper {
+  display: flex;
+  align-items: center;
+  color: var(--color-author-ads-btn-gray);
+  font-weight: 500;
+  font-size: 1.4rem;
+  line-height: 2rem;
+  margin-bottom: 2rem;
+}
+.authorImg {
+  margin-right: 1rem;
+}
+.authorName {
+  margin-right: 3rem;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 3.2rem;
+}
