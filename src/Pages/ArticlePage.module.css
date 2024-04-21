@@ -42,3 +42,8 @@
   flex-direction: column;
   gap: 3.2rem;
 }
+@media (max-width: 44em) {
+  .article {
+    margin: 2.7rem 1.8rem;
+  }
+}

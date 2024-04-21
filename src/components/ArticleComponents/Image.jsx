@@ -12,5 +12,5 @@ export function Image(props) {
     loadImg();
   }, []);
 
-  return <img src={imgURL} alt="articl's image" />;
+  return <img src={imgURL} alt="articl's image" className={styles.img} />;
 }

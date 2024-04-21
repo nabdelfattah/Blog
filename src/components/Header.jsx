@@ -26,7 +26,7 @@ export function Header() {
   }
 
   return (
-    <header>
+    <header className={styles.header}>
       <div className={styles.logo}>
         <img src={logo} />
         <p>Blog</p>

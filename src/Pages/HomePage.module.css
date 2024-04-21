@@ -12,6 +12,7 @@
 .cards-grid {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   max-width: var(--width-desktop);
   gap: 2rem;
   margin: 2.7rem auto;

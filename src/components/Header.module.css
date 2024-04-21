@@ -1,4 +1,4 @@
-header {
+.header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -36,4 +36,18 @@ input {
 }
 input:focus {
   outline: none;
+}
+
+@media (max-width: 56em) {
+  .logo {
+    gap: 2rem;
+  }
+  .home {
+    display: none;
+  }
+}
+@media (max-width: 25em) {
+  .header {
+    margin: 0;
+  }
 }
