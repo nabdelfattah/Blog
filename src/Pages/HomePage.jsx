@@ -2,7 +2,7 @@ import { useContext, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import styles from "./HomePage.module.css";
 import { AppContext } from "../AppContext";
-import { ArticleCard } from "../Components";
+import { ArticleCard } from "../components";
 import images from "../storedImages";
 
 export function HomePage() {
