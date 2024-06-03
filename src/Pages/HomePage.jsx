@@ -22,8 +22,6 @@ export function HomePage() {
       return (
         <li key={obj.key}>
           <Link to={`/article/${obj.heading}`}>
-            {" "}
-            {/* Removed : from URL */}
             <ArticleCard data={obj} />
           </Link>
         </li>

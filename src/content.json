@@ -4,13 +4,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Tracey Wilson",
-    "author-img": "../assets/people/person1.svg",
+    "author-img": "/people/person1.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/sea.svg",
+    "img-primary": "/lg-img/sea.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -36,7 +36,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -66,13 +66,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Jason Francisco",
-    "author-img": "../assets/people/person2.svg",
+    "author-img": "/people/person2.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/buildings.svg",
+    "img-primary": "/lg-img/buildings.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -98,7 +98,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -128,13 +128,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Elizabeth Slavin",
-    "author-img": "../assets/people/person3.svg",
+    "author-img": "/people/person3.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/buildings.svg",
+    "img-primary": "/lg-img/buildings.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -160,7 +160,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -190,9 +190,9 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Ernie Smith",
-    "author-img": "../assets/people/person4.svg",
+    "author-img": "/people/person4.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/home.svg",
+    "img-primary": "/lg-img/home.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
@@ -252,13 +252,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Eric Smith",
-    "author-img": "../assets/people/person5.svg",
+    "author-img": "/people/person5.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/rocks.svg",
+    "img-primary": "/lg-img/rocks.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -284,7 +284,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -314,13 +314,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Tracey Wilson",
-    "author-img": "../assets/people/person1.svg",
+    "author-img": "/people/person1.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/car.svg",
+    "img-primary": "/lg-img/car.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -346,7 +346,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -376,13 +376,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Jason Francisco",
-    "author-img": "../assets/people/person2.svg",
+    "author-img": "/people/person2.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/phone.svg",
+    "img-primary": "/lg-img/phone.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -408,7 +408,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -438,13 +438,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Jason Francisco",
-    "author-img": "../assets/people/person2.svg",
+    "author-img": "/people/person2.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/island.svg",
+    "img-primary": "/lg-img/island.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -470,7 +470,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -500,13 +500,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Ernie Smith",
-    "author-img": "../assets/people/person4.svg",
+    "author-img": "/people/person4.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/play.svg",
+    "img-primary": "/lg-img/play.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -532,7 +532,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -562,13 +562,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Tracey Wilson",
-    "author-img": "../assets/people/person1.svg",
+    "author-img": "/people/person1.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/sea.svg",
+    "img-primary": "/lg-img/sea.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -594,7 +594,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -624,13 +624,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Jason Francisco",
-    "author-img": "../assets/people/person2.svg",
+    "author-img": "/people/person2.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/buildings.svg",
+    "img-primary": "/lg-img/buildings.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -656,7 +656,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -686,13 +686,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Elizabeth Slavin",
-    "author-img": "../assets/people/person3.svg",
+    "author-img": "/people/person3.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/buildings.svg",
+    "img-primary": "/lg-img/buildings.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -718,7 +718,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -748,13 +748,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Ernie Smith",
-    "author-img": "../assets/people/person4.svg",
+    "author-img": "/people/person4.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/home.svg",
+    "img-primary": "/lg-img/home.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -780,7 +780,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -810,13 +810,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Eric Smith",
-    "author-img": "../assets/people/person5.svg",
+    "author-img": "/people/person5.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/rocks.svg",
+    "img-primary": "/lg-img/rocks.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -842,7 +842,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -872,13 +872,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Tracey Wilson",
-    "author-img": "../assets/people/person1.svg",
+    "author-img": "/people/person1.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/car.svg",
+    "img-primary": "/lg-img/car.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -904,7 +904,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -934,13 +934,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Jason Francisco",
-    "author-img": "../assets/people/person2.svg",
+    "author-img": "/people/person2.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/phone.svg",
+    "img-primary": "/lg-img/phone.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -966,7 +966,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -996,13 +996,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Jason Francisco",
-    "author-img": "../assets/people/person2.svg",
+    "author-img": "/people/person2.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/island.svg",
+    "img-primary": "/lg-img/island.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -1028,7 +1028,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
@@ -1058,13 +1058,13 @@
     "tag": "Technology",
     "heading": "The Impact of Technology on the Workplace: How Technology is Changing",
     "author-name": "Ernie Smith",
-    "author-img": "../assets/people/person4.svg",
+    "author-img": "/people/person4.svg",
     "date": "August 20, 2022",
-    "img-primary": "../assets/lg-img/play.svg",
+    "img-primary": "/lg-img/play.svg",
     "alt": "An image of a building at night.",
     "content": [
       {
-        "img": "../../assets/lg-img/building-night.svg"
+        "img": "/lg-img/building-night.svg"
       },
       {
         "text": "Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels."
@@ -1090,7 +1090,7 @@
         "quote": "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
       },
       {
-        "img": "../../assets/lg-img/travel.svg"
+        "img": "/lg-img/travel.svg"
       },
       { "ads": ["Advertisement", "You can place ads", "750x100"] },
       { "title": "Pack Lightly and Smartly" },
