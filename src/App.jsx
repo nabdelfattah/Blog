@@ -1,9 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { PageLayout } from "./pages/PageLayout";
-import { HomePage } from "./pages/HomePage";
-import { ArticlePage } from "./pages/ArticlePage";
-import { ErrorPage } from "./pages/ErrorPage";
-// import { HomePage, ArticlePage, PageLayout, ErrorPage } from "./pages";
+import { ArticlePage, ErrorPage, HomePage, PageLayout } from "./pages";
 
 function App() {
   return (
