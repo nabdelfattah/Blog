@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import styles from "./HomePage.module.css";
 import { AppContext } from "../AppContext";
 import { ArticleCard } from "../components";
+import images from "../storedImages";
 
 export function HomePage() {
   const { articles } = useContext(AppContext);
@@ -22,7 +23,7 @@ export function HomePage() {
       return (
         <li key={obj.key}>
           <Link to={`/article/${obj.heading}`}>
-            <ArticleCard data={obj} />
+            <ArticleCard data={obj} images={images[obj.key - 1]} />
           </Link>
         </li>
       );

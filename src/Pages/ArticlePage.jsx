@@ -9,11 +9,16 @@ import {
   Ads,
   Quote,
 } from "../components/ArticleComponents";
+import authorImg from "/people/person.svg?../../public/people/person.svg";
+import img1 from "/lg-img/building-night.svg?../../public/lg-img/building-night.svg";
+import img2 from "/lg-img/travel.svg?../../public/lg-img/travel.svg";
 
 function loadArticle(title) {
   const filteredArticles = data.filter((obj) => obj.heading == title);
   return filteredArticles[0];
 }
+
+const articleImgs = [img1, img2];
 
 export function ArticlePage() {
   const navigator = useNavigate();
@@ -21,33 +26,37 @@ export function ArticlePage() {
   const decodedTitle = decodeURIComponent(params.title);
   const articleObj = loadArticle(decodedTitle);
 
-  const [authorImg, setAuthorImg] = useState();
+  // const [authorImg, setAuthorImg] = useState();
 
   // SCROLLED TO TOP
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
 
-  // LOAD AUTHOR's IMAGES
   useEffect(() => {
     if (!articleObj) {
       navigator("/");
       return;
     }
-    async function loadImage() {
-      const authorImg = await import(articleObj["author-img"]);
-      setAuthorImg(authorImg.default);
-    }
-    loadImage();
+    // async function loadImage() {
+    //   const authorImg = await import(articleObj["author-img"]);
+    //   setAuthorImg(authorImg.default);
+    // }
+    // loadImage();
   }, []);
 
   // CONVERT ARTICLE CONTENT INTO COMPONENTS
   let content;
   if (articleObj) {
+    let counter = 0;
     content = articleObj.content.map((obj, index) => {
+      let component;
       switch (Object.keys(obj)[0]) {
         case "img":
-          return <Image key={index} reference={obj.img}></Image>;
+          component = (
+            <Image key={index} reference={articleImgs} index={counter}></Image>
+          );
+          break;
         case "text":
           return <Text key={index}>{obj.text}</Text>;
         case "title":
@@ -57,6 +66,8 @@ export function ArticlePage() {
         case "quote":
           return <Quote key={index}>{obj.quote}</Quote>;
       }
+      counter++;
+      return component;
     });
   } else {
     content = "";
