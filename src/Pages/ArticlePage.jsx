@@ -8,7 +8,7 @@ import {
   Text,
   Ads,
   Quote,
-} from "../components/ArticleComponents";
+} from "../Components/ArticleComponents";
 import authorImg from "/people/person.svg?../../public/people/person.svg";
 import img1 from "/lg-img/building-night.svg?../../public/lg-img/building-night.svg";
 import img2 from "/lg-img/travel.svg?../../public/lg-img/travel.svg";
