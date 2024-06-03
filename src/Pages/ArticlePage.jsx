@@ -1,7 +1,7 @@
 import { useNavigate, useParams } from "react-router-dom";
 import data from "../content.json";
 import styles from "./ArticlePage.module.css";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import {
   Image,
   Title,
@@ -26,8 +26,6 @@ export function ArticlePage() {
   const decodedTitle = decodeURIComponent(params.title);
   const articleObj = loadArticle(decodedTitle);
 
-  // const [authorImg, setAuthorImg] = useState();
-
   // SCROLLED TO TOP
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -38,11 +36,6 @@ export function ArticlePage() {
       navigator("/");
       return;
     }
-    // async function loadImage() {
-    //   const authorImg = await import(articleObj["author-img"]);
-    //   setAuthorImg(authorImg.default);
-    // }
-    // loadImage();
   }, []);
 
   // CONVERT ARTICLE CONTENT INTO COMPONENTS
