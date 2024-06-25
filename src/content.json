@@ -7,7 +7,7 @@
     "author-img": "/people/person1.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/sea.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of a sea.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -69,7 +69,7 @@
     "author-img": "/people/person2.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/buildings.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of buildings.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -131,7 +131,7 @@
     "author-img": "/people/person3.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/buildings.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of a buildings.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -193,7 +193,7 @@
     "author-img": "/people/person4.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/home.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of a house.",
     "content": [
       {
         "img": "../../assets/lg-img/building-night.svg"
@@ -255,7 +255,7 @@
     "author-img": "/people/person5.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/rocks.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of large rocks.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -317,7 +317,7 @@
     "author-img": "/people/person1.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/car.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of a car.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -379,7 +379,7 @@
     "author-img": "/people/person2.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/phone.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of a smart phone.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -441,7 +441,7 @@
     "author-img": "/people/person2.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/island.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of an island.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -503,7 +503,7 @@
     "author-img": "/people/person4.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/play.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of a Game Console Controller.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -565,7 +565,7 @@
     "author-img": "/people/person1.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/sea.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of a sea.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -627,7 +627,7 @@
     "author-img": "/people/person2.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/buildings.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of buildings.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -689,7 +689,7 @@
     "author-img": "/people/person3.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/buildings.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of buildings.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -751,7 +751,7 @@
     "author-img": "/people/person4.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/home.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of a house.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -813,7 +813,7 @@
     "author-img": "/people/person5.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/rocks.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of large rocks.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -875,7 +875,7 @@
     "author-img": "/people/person1.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/car.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of a car.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -937,7 +937,7 @@
     "author-img": "/people/person2.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/phone.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of a smart phone.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -999,7 +999,7 @@
     "author-img": "/people/person2.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/island.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of an island.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"
@@ -1061,7 +1061,7 @@
     "author-img": "/people/person4.svg",
     "date": "August 20, 2022",
     "img-primary": "/lg-img/play.svg",
-    "alt": "An image of a building at night.",
+    "alt": "An image of a Game Console Controller.",
     "content": [
       {
         "img": "/lg-img/building-night.svg"

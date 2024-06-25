@@ -72,7 +72,13 @@ export function ArticlePage() {
         <span className={styles.tag}>{articleObj.tag}</span>
         <h2 className={styles.heading}>{articleObj.heading}</h2>
         <div className={styles.authorWrapper}>
-          {authorImg && <img className={styles.authorImg} src={authorImg} />}
+          {authorImg && (
+            <img
+              className={styles.authorImg}
+              src={authorImg}
+              alt="the author's image"
+            />
+          )}
           <p className={styles.authorName}>{articleObj["author-name"]}</p>
           <p className={styles.date}>{articleObj.date}</p>
         </div>

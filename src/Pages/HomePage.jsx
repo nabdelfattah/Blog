@@ -17,8 +17,11 @@ export function HomePage() {
 
   let content;
   if (!displayedArticles.length) {
+    // No Articles
     content = <p className={styles.noResult}>No result</p>;
   } else {
+    // create ArticleCard out of article object in the displayedArticles array
+    // and pass to it: article object, image object (stores images pathes)
     content = displayedArticles.map((obj) => {
       return (
         <li key={obj.key}>

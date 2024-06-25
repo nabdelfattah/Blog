@@ -28,7 +28,7 @@ export function Header() {
   return (
     <header className={styles.header}>
       <div className={styles.logo}>
-        <img src={logo} />
+        <img src={logo} alt="the logo" />
         <p>Blog</p>
       </div>
       <p className={styles.home}>Home</p>
@@ -39,7 +39,7 @@ export function Header() {
           placeholder="Search"
           onChange={searchHandler}
         />
-        <img src={searchIcon} />
+        <img src={searchIcon} alt="search icon" />
       </form>
     </header>
   );

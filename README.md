@@ -9,7 +9,8 @@ React
 And built with Vite
 
 It has 2 pages: home and article.
-Links:
 
-- github:
-- live:
+#### Links:
+
+- [Design](https://www.figma.com/design/Pz9qMF1LLYVwvrbCRixGv1/Almdrasa-blog-ui?node-id=1-2)
+- [live site](https://blog-kappa-seven-96.vercel.app/)
