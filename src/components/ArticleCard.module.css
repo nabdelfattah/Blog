@@ -6,10 +6,15 @@
   border-radius: var(--radius);
   overflow: hidden;
 }
-.main-img {
-  max-width: 36rem;
-  max-height: 24rem;
+.main-img-wrapper {
   display: block;
+  width: 36rem;
+  height: 24rem;
+}
+.main-img {
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 .tag {
   margin: 2rem 0;

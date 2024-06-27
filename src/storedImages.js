@@ -40,8 +40,7 @@ const images = [
     "author-img": './people/person1.svg',
     "lg-img1": "/lg-img/building-night.svg",
     "lg-img2": "/lg-img/travel.svg"
-    },
-
+  },
   {
   "img-primary": './lg-img/island.svg',
   "author-img": './people/person5.svg',
@@ -96,7 +95,6 @@ const images = [
     "lg-img1": "/lg-img/building-night.svg",
     "lg-img2": "/lg-img/travel.svg"
     },
-
   {
   "img-primary": './lg-img/island.svg',
   "author-img": './people/person5.svg',
